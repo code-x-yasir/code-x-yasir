@@ -1,4 +1,7 @@
-# Hi 👋, I'm Sheikh Yasir
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Enthusiast;Web+Developer;Problem+Solver&center=true&width=500&height=50">
+</p># Hi 👋, I'm Sheikh Yasir
 
 ### Computer Science Student | Java Developer | DSA Enthusiast
 
