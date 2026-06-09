@@ -33,10 +33,8 @@ Java • Python • HTML • CSS • JavaScript • Git
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=code-x-yasir
-&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=code-x-yasir&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=code-x-yasir&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=code-x-yasir&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-x-yasir
-&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-x-yasir&layout=compact&theme=tokyonight)
