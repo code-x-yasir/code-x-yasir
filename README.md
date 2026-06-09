@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Sheikh Yasir
 
-<!--
-**code-x-yasir/code-x-yasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Java Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Data Structures & Algorithms
+- 💻 Working on Hostel Management System
+- 🚀 Interested in Web Development
+- 🎯 Goal: Software Engineer
+
+## 🌐 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- LeetCode: YOUR_LEETCODE
+
+## 💻 Tech Stack
+
+Java • Python • HTML • CSS • JavaScript • Git
